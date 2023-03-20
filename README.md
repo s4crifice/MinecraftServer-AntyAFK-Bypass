@@ -1,4 +1,4 @@
-# Minecraft Skyblock AFK Script
+# Minecraft Skyblock AFK Bypass Script
 
 This Python script is designed for Minecraft server skyblock players to prevent getting kicked by an antiafk plugin. The script simulates user activity on a Windows machine using keystrokes and mouse clicks. The delay between the simulated user activity and the call to the afk() function can be adjusted by modifying the value passed to the time.sleep() function. By default, the delay is set to 270 seconds (4.5 minutes), but this value can be increased or decreased to suit the user's needs.
 
